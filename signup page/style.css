@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Slab&display=swap');
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.main-div {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* .form-content {
+    background-color: aqua;
+    width: 750px;
+    height: 450px;
+} */
+
+.signup-img{
+    width: 100%;
+    height: 100vh;
+}
+
+/* 
+.container {
+    width: 600px;
+    height: 70hv;
+} */
+
+.birthday {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.signup-para {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.row1{
+    height: 100vh;
+    
+}
+/* 
+input[type="text"]{
+    background-color:rgb(255, 255, 255) !important
+    } */
+
+.sign-up-button{
+    background-color: #40d640;
+}
